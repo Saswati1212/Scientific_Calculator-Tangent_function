@@ -1,3 +1,6 @@
 # SOEN_6011_Project
 
-Repository for SOEN 6011 Project - tan(x)
+Repository for Software Engineering Processes(SOEN-6011) Project
+
+**Function:** 
+F2: tan(x) 
